@@ -12,7 +12,8 @@ Figure 1: a cyclic chart the various disciplines of precision medicine and who i
 ### Introduction to Precision Oncology
 
 One of the main applications of precision medicine is in cancer, thus eliciting the field of precision oncology. Traditional cancer therapies, such as chemotherapy, are toxic to all types of cells and can thus damage healthy cells as well as cancerous ones, leading to drastic side effects for the affected patient. Targeted therapy thus represents a type of personalized treatment utilized in precision oncology as another form of treatment that targets cancer cells with a specific genetic marker and leaves healthy cells intact. 
-
+![Precision Oncology](https://user-images.githubusercontent.com/79080696/205410325-ada92dd2-0197-44fd-8ab0-67f4102925b4.png) <br />
+Figure 2: Overview of Precision Oncology Workflow via a cyclic chart
 ### 1.2 Lung Cancer Overview and Current Treatments <br /> 
 
 One of the cancer subtypes of which precision medicine is utilized in is lung cancer. Being the leading cause of cancer mortality, lung cancer has two types, categorized by how the cancer cells look under the microscope: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Non small cell lung cancer is considered to be around 4 times more common than small cell lung cancer.
