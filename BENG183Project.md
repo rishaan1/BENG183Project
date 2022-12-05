@@ -57,3 +57,15 @@ Tyrosine kinase inhibitors are typically taken orally by medical patients, altho
 ## 1.4 Genetic Testing for Targeted Therapy <br />
 The importance of genetic testing in targeted therapy cannot be understated. The advent of next-generation sequencing (NGS) has enabled the whole genome to be sequenced, along with the entire exome. With the utilization of NGS, genomic profiles of many cancer subtypes have been elucidated, leading to the discovery of various genetic mutations that are insturmental into eliciting cancer within affected patients. These genetic mutations now serve as predictive biomarkers of these cancer subtypes that enable the development of targeted therapy treatments. <br />
 Due to the EGFR and KRAS mutations being determined as oncogenic driver mutations in lung cancer, the development of tyrosine kinase inhibitors, described above, that target EGFR mutations has resulted in incredible advances in therapy treatment. Standard therapy treatments that target other genomic alterations are now heavily recommended by the National Comprehensive Cancer Network, an organization dedicated to advancements in oncoglogical treatments. 
+
+
+
+# References
+
+- “Lung Cancer - Non-Small Cell - Types of Treatment.” Cancer.Net, 24 Oct. 2022, https://www.cancer.net/cancer-types/lung-cancer-non-small-cell/types-treatment. 
+- Saito, Motonobu, et al. “Targeted Therapy According to Next Generation Sequencing-Based Panel Sequencing.” Fukushima Journal of Medical Science, U.S. National Library of Medicine, 17 Apr. 2018, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5956085/. 
+- Bartholomew, C, et al. “EGFR Targeted Therapy in Lung Cancer; an Evolving Story.” Respiratory Medicine Case Reports, U.S. National Library of Medicine, 4 Feb. 2017, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302182/. 
+- Fan, Jun, et al. “Concomitant EGFR Mutation and ALK Rearrangement in Multifocal Lung Adenocarcinoma: A Case Report - Diagnostic Pathology.” BioMed Central, BioMed Central, 6 May 2020, https://diagnosticpathology.biomedcentral.com/articles/10.1186/s13000-020-00969-1. 
+- Ciupka, NFCR Writer Brittany. “Small Cell Lung Cancer vs. Non-Small Cell Lung Cancer: What's the Difference?” NFCR, 3 Nov. 2020, https://www.nfcr.org/blog/small-cell-lung-cancer-vs-non-small-cell-lung-cancer-whats-the-difference/. 
+- Vinay Prasad, Robert Peter Gale. “What Precisely Is Precision Oncology-and Will It Work?” The ASCO Post, https://ascopost.com/issues/january-25-2017/what-precisely-is-precision-oncology-and-will-it-work. 
+- “Precision Medicine in Non–Small Cell Lung Cancer: Current Standards in Pathology and Biomarker Interpretation.” American Society of Clinical Oncology Educational Book, https://ascopubs.org/doi/full/10.1200/EDBK_209089. 
