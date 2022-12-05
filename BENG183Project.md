@@ -7,13 +7,13 @@ Precision medicine is defined as an approach for disease prevention and treatmen
 Due to the Human Genome Project, the mapping of the genes in the human body has enabled researchers to understand the genetics of various diseases and how they potentially differ amongst individuals. If a disease elucidates itself in the presence of specific genomic alterations, scientists can design therapies that target these changes to inhibit the effects. 
 
 ![Precision Medicine](https://precisionmedicine.ucsf.edu/sites/g/files/tkssra2841/f/wysiwyg/PMGraphic_v07-1-10-20.jpg)
-Figure 1: a cyclic chart the various disciplines of precision medicine and who it benefits 
+Figure 1: a cyclic chart the various disciplines of precision medicine and who it benefits (University of California, San Francisco)
 
 ### Introduction to Precision Oncology
 
 One of the main applications of precision medicine is in cancer, thus eliciting the field of precision oncology. Traditional cancer therapies, such as chemotherapy, are toxic to all types of cells and can thus damage healthy cells as well as cancerous ones, leading to drastic side effects for the affected patient. Targeted therapy thus represents a type of personalized treatment utilized in precision oncology as another form of treatment that targets cancer cells with a specific genetic marker and leaves healthy cells intact. It is a more precise form of treatment that directly attacks the genetic alterations of cancer cells, and since it has this specific target, healthy cells are not considered. 
 ![Precision Oncology](https://user-images.githubusercontent.com/79080696/205410325-ada92dd2-0197-44fd-8ab0-67f4102925b4.png) <br />
-Figure 2: Overview of Precision Oncology Workflow via a cyclic chart
+Figure 2: Overview of Precision Oncology Workflow via a cyclic chart (Shrager, Jeff et al., Nature, 2014))
 ### 1.2 Lung Cancer Overview and Current Treatments <br /> 
 
 One of the cancer subtypes of which precision medicine is utilized in is lung cancer. Being the leading cause of cancer mortality, lung cancer has two types, categorized by how the cancer cells look under the microscope: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Non small cell lung cancer is considered to be around 4 times more common than small cell lung cancer.
@@ -69,3 +69,5 @@ Due to the EGFR and KRAS mutations being determined as oncogenic driver mutation
 - Ciupka, NFCR Writer Brittany. “Small Cell Lung Cancer vs. Non-Small Cell Lung Cancer: What's the Difference?” NFCR, 3 Nov. 2020, https://www.nfcr.org/blog/small-cell-lung-cancer-vs-non-small-cell-lung-cancer-whats-the-difference/. 
 - Vinay Prasad, Robert Peter Gale. “What Precisely Is Precision Oncology-and Will It Work?” The ASCO Post, https://ascopost.com/issues/january-25-2017/what-precisely-is-precision-oncology-and-will-it-work. 
 - “Precision Medicine in Non–Small Cell Lung Cancer: Current Standards in Pathology and Biomarker Interpretation.” American Society of Clinical Oncology Educational Book, https://ascopubs.org/doi/full/10.1200/EDBK_209089. 
+- “The Elements of Precision Medicine.” Precision Medicine at UCSF, https://precisionmedicine.ucsf.edu/elements-precision-medicine. 
+- Shrager, Jeff, and Jay M. Tenenbaum. “Rapid Learning for Precision Oncology.” Nature News, Nature Publishing Group, 21 Jan. 2014, https://www.nature.com/articles/nrclinonc.2013.244. 
