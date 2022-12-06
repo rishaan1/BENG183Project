@@ -10,12 +10,16 @@ Due to the Human Genome Project, the mapping of the genes in the human body has 
 Figure 1: a cyclic chart of the various disciplines of precision medicine and who it benefits (University of California, San Francisco)
 
 ### Introduction to Precision Oncology
-
 One of the main applications of precision medicine is in cancer, thus eliciting the field of precision oncology. Traditional cancer therapies, such as chemotherapy, are toxic to all types of cells and can thus damage healthy cells as well as cancerous ones, leading to drastic side effects for the affected patient. Targeted therapy thus represents a type of personalized treatment utilized in precision oncology as another form of treatment that targets cancer cells with a specific genetic marker and leaves healthy cells intact. It is a more precise form of treatment that directly attacks the genetic alterations of cancer cells, and since it has this specific target, healthy cells are not considered. 
 ![Precision Oncology](https://user-images.githubusercontent.com/79080696/205410325-ada92dd2-0197-44fd-8ab0-67f4102925b4.png) <br />
 Figure 2: Overview of Precision Oncology Workflow via a cyclic chart (Shrager, Jeff et al., Nature, 2014))
-### 1.2 Lung Cancer Overview and Current Treatments <br /> 
 
+### Evolution of Precision Oncology <br />
+The definition of precision oncology has evolved rapidly throughout the past 20 years. The very first definitions of precision oncology simply referred to use of specific cell therapies to target certain cell types. Following this definition, treatments for cancer would involve the use of chemotherapeutic drugs, such as bevacizumab and imatinib, to inhibit vascular endothial growth factors (VGEFs) and BCR/ABL1 respectively. Although these treatments were effective in treating cancer in patients, the issue was that they were not specific enough and caused damage to healthy cells, leading to adverse side effects.
+
+Recent definitions of precision oncology have now shifted focus towards using genome sequencing, specifically next-generation sequencing (NGS), to identify and treat targetable alterations in cancer cells. In other words, data from NGS is used to identify mutations in cancer cells and guide therapies to target cells that exhibit these genetic alterations, decreasing the chances of targeting and damaging healthy, unmutated cells.
+
+## 1.2 Lung Cancer Overview and Current Treatments <br /> 
 One of the cancer subtypes in which precision medicine is utilized in is lung cancer. Being the leading cause of cancer mortality, lung cancer has two types, categorized by how the cancer cells look under the microscope: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Non small cell lung cancer is considered to be around 4 times more common than small cell lung cancer.
 
 Normally caused by smoking tobacco, SCLC typically begins in the bronchi, which are the major air passages that progressively lead into smaller structures along the lungs. Once it completely impacts the bronchi, it spreads to other vital parts of the body, especially the lymph nodes. SCLC is categorized into two subtypes: small-cell carcinoma and combined small-cell carcinoma. These subtypes are differentiated based on their look when examined under a microscope. Small-cell carcinoma looks flat-like under the microscope, while combined small-cell carcinoma involves a tumor composed of cells from small-cell carcinoma and cells from NSCLC. 
@@ -70,4 +74,5 @@ Due to the EGFR and KRAS mutations being determined as oncogenic driver mutation
 - Vinay Prasad, Robert Peter Gale. “What Precisely Is Precision Oncology-and Will It Work?” The ASCO Post, https://ascopost.com/issues/january-25-2017/what-precisely-is-precision-oncology-and-will-it-work. 
 - “Precision Medicine in Non–Small Cell Lung Cancer: Current Standards in Pathology and Biomarker Interpretation.” American Society of Clinical Oncology Educational Book, https://ascopubs.org/doi/full/10.1200/EDBK_209089. 
 - “The Elements of Precision Medicine.” Precision Medicine at UCSF, https://precisionmedicine.ucsf.edu/elements-precision-medicine. 
-- Shrager, Jeff, and Jay M. Tenenbaum. “Rapid Learning for Precision Oncology.” Nature News, Nature Publishing Group, 21 Jan. 2014, https://www.nature.com/articles/nrclinonc.2013.244. 
+- Shrager, Jeff, and Jay M. Tenenbaum. “Rapid Learning for Precision Oncology.” Nature News, Nature Publishing Group, 21 Jan. 2014, https://www.nature.com/articles/nrclinonc.2013.244.
+- Gale, Robert Peter, and Vinay Prasad. “What Precisely Is Precision Oncology—and Will It Work?” The ASCO Post, HSP News Service, L.L.C., 25 Jan. 2017, https://ascopost.com/issues/january-25-2017/what-precisely-is-precision-oncology-and-will-it-work#:~:text=The%20term%20%E2%80%9Cprecision%20oncology%E2%80%9D%20is,person%20independent%20of%20cancer%20type.
