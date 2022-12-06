@@ -15,13 +15,13 @@ One of the main applications of precision medicine is in cancer, thus eliciting 
 ![Precision Oncology](https://user-images.githubusercontent.com/79080696/205410325-ada92dd2-0197-44fd-8ab0-67f4102925b4.png) <br />
 Figure 2: Overview of Precision Oncology Workflow via a cyclic chart (Shrager, Jeff et al., Nature, 2014))
 
-## 1.2 Evolution of Precision Oncology <br />
+### Evolution of Precision Oncology <br />
 
 The definition of precision oncology has evolved rapidly throughout the past 20 years. The very first definitions of precision oncology simply referred to use of specific cell therapies to target certain cell types. Following this definition, treatments for cancer would involve the use of chemotherapeutic drugs, such as bevacizumab and imatinib, to inhibit vascular endothial growth factors (VGEFs) and BCR/ABL1 respectively. Although these treatments were effective in treating cancer in patients, the issue was that they were not specific enough and caused damage to healthy cells, leading to adverse side effects.
 
 Recent definitions of precision oncology have now shifted focus towards using genome sequencing, specifically next-generation sequencing (NGS), to identify and treat targetable alterations in cancer cells. In other words, data from NGS is used to identify mutations in cancer cells and guide therapies to target cells that exhibit these genetic alterations, decreasing the chances of targeting and damaging healthy, unmutated cells.
 
-## 1.3 Lung Cancer Overview and Current Treatments <br /> 
+## 1.2 Lung Cancer Overview and Current Treatments <br /> 
 One of the cancer subtypes of which precision medicine is utilized in is lung cancer. Being the leading cause of cancer mortality, lung cancer has two types, categorized by how the cancer cells look under the microscope: non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Non small cell lung cancer is considered to be around 4 times more common than small cell lung cancer.
 
 Normally caused by smoking tobacco, SCLC typically begins in the bronchi, which are the major air passages that progressively lead into smaller structures along the lungs. Once it completely impacts the bronchi, it spreads to other vital parts of the body, especially the lymph nodes. SCLC is itself categorized as two subtypes: small-cell carcinoma and combined small-cell carcinoma. These subtypes are differentiated based on their look when examined under a microscope. Small-cell carcinoma looks flat-like under the microscope, while combined small-cell carcinoma involves a tumor composed of cells from small-cell carcinoma and cells from NSCLC. 
@@ -31,7 +31,7 @@ Meanwhile, NSCLC normally grows and spreads at a slower pace than SCLC, so slow 
 The current treatments of NSCLC vary by stage and the patient’s lung function. For stages 0 and 1, in which the cancer is found in the cells and the lung, surgery is used. Surgery is also used for patients with stage 2 lung cancer, but additional chemotherapy is used to eliminate the remaining cancer cells post surgery. For patients with stage 3 lung cancer, during which its spread into the lymph nodes, a combination of radiation therapy, chemotherapy, and/or surgery is applied, depending on the size of the tumor, its location, and which lymph nodes it has spread to.
 And finally for individuals with stage 4, targeted therapy is commonly utilized after testing for certain gene mutations.
  
-## 1.4 Genomic Targeting of Lung Cancer <br />
+## 1.3 Genomic Targeting of Lung Cancer <br />
 As oncology has previously trended towards molecular classification of the various cancer subtypes due to a kinase inhibitor being used in myeloid leukemia, genomic targeting for EGFR mutations and ALK rearrangements in non small cell lung cancer samples adhered to the theme of personalized care in precision medicine. Lung cancer specialists conduct genetic testing to determine such molecular targets in order to choose the appropriate drug for the corresponding patient. Specifically, next-generation sequencing is performed to identify these genetic abberations, and based on these results, specialists recommend or not the utilization of targeted therapy.
 
 EGFR mutations, exemplified by the deletion of exon 19 and a point mutation of exon 21, are widely considered primary oncogenic drivers of lung cancer, particularly NSCLC. In addition, 10-15% of patients with lung cancer are EGFR-positive, meaning that they have the mutation. Due to this, therapeutic agents such as erlotinib and dasatinib have been developed to target these genomic alterations and are now the standard treatment utilized in the clinic for patients with EGFR-positive NSCLC, along with the ALK rearrangements. 
@@ -60,7 +60,7 @@ Kinase inhibitors are classified as reversible or irreversible. Reversible kinas
 
 Tyrosine kinase inhibitors are typically taken orally by medical patients, although dosing should be uniquely determined based on the genetic factors, overall health, and tolerance of the individual. 
 
-## 1.5 Genetic Testing for Targeted Therapy <br />
+## 1.4 Genetic Testing for Targeted Therapy <br />
 The importance of genetic testing in targeted therapy cannot be understated. The advent of next-generation sequencing (NGS) has enabled the whole genome to be sequenced, along with the entire exome. With the utilization of NGS, genomic profiles of many cancer subtypes have been elucidated, leading to the discovery of various genetic mutations that are insturmental into eliciting cancer within affected patients. These genetic mutations now serve as predictive biomarkers of these cancer subtypes that enable the development of targeted therapy treatments. <br />
 Due to the EGFR and KRAS mutations being determined as oncogenic driver mutations in lung cancer, the development of tyrosine kinase inhibitors, described above, that target EGFR mutations has resulted in incredible advances in therapy treatment. Standard therapy treatments that target other genomic alterations are now heavily recommended by the National Comprehensive Cancer Network, an organization dedicated to advancements in oncoglogical treatments. 
 
