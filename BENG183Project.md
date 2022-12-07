@@ -1,4 +1,5 @@
 # Chapter 1: Precision Medicine in Lung Cancer <br />
+### Group 24 Rishaan Kenkre, Tushar Agashe, John Song
 ## 1.1 What is Precision Medicine? <br />
 Traditional medicine caters to massive groups of people with a corresponding disease for treatment. Medical professionals consider factors such as gender and age but usually tailor treatment to the larger groups of people that have the disease. The disadvantage of this older form of treatment is that patients of the disease respond to treatments differently. This is where precision medicine comes in. 
 
